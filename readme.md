@@ -10,7 +10,9 @@
 
 - [Github:diessica / awesome-sketch](https://github.com/diessica/awesome-sketch)
 - [Github:gztchan / awesome-design](https://github.com/gztchan/awesome-design)
-
+- [https://uiiiuiii.com/knowledge/121211571.html](https://uiiiuiii.com/knowledge/121211571.html)
+- [https://www.bilibili.com/video/av9354098](https://www.bilibili.com/video/av9354098)
+- [http://list.youku.com/albumlist/show/id_51399132.html?](http://list.youku.com/albumlist/show/id_51399132.html?)
 
 ## 辅助工具
 
