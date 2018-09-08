@@ -2,6 +2,11 @@
 
 > 目的：制作LOGO，制作原型可视化想法。
 
+学习过程：
+1. 接触概念
+2. 中文教程
+3. 官方教程 [Sketch - Getting Started](https://sketchapp.com/docs/getting-started/)
+
 ## 平面设计元素 Element
 
 - 布局
