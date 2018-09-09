@@ -76,6 +76,10 @@ Sketch
     - 对称
     - 可以叠加效果
 - 拷贝样式（类似格式刷）
+- 原型功能（交互：热区和链接）
+- 可以导出CSS, 甚至四Less和Sass, 需要设置
+- 自动横向纵向均匀布局
+- 从template新建[The Best Hidden Features In Sketch | Meng To - UI/UX Designer](http://blog.mengto.com/the-best-hidden-features-in-sketch/)
 
 组件概念
 
@@ -107,7 +111,7 @@ Sketch
         - 粗细
     - 阴影
     - 高斯模糊
-- 画布 (Page)
+- 画布 (Convas): 无限大小
     - 不在画布上的组件无法导出
 - 画板 (Artboard)
     - Apple Devices
@@ -121,8 +125,3 @@ Sketch
         - Tablet 7'
         - Desktop
     - 可快速复制画板（command + D）
-
-
-
-
-

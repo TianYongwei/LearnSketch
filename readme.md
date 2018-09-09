@@ -30,6 +30,7 @@
 
 ## 参考资源
 
+- [Sketch - Getting Started](https://sketchapp.com/docs/getting-started/)
 - [Github:diessica / awesome-sketch](https://github.com/diessica/awesome-sketch)
 - [Github:gztchan / awesome-design](https://github.com/gztchan/awesome-design)
 - [昱姐的入门课程：https://uiiiuiii.com/knowledge/121211571.html](https://uiiiuiii.com/knowledge/121211571.html)
