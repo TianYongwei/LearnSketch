@@ -79,7 +79,7 @@ Sketch
 - 原型功能（交互：热区和链接）
 - 可以导出CSS, 甚至四Less和Sass, 需要设置
 - 自动横向纵向均匀布局
-- 从template新建[The Best Hidden Features In Sketch | Meng To - UI/UX Designer](http://blog.mengto.com/the-best-hidden-features-in-sketch/)
+- 从template新建（[The Best Hidden Features In Sketch | Meng To - UI/UX Designer](http://blog.mengto.com/the-best-hidden-features-in-sketch/)）
 
 组件概念
 
