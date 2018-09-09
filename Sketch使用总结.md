@@ -80,10 +80,12 @@ Sketch
 - 可以导出CSS, 甚至四Less和Sass, 需要设置
 - 自动横向纵向均匀布局
 - 从template新建（[The Best Hidden Features In Sketch | Meng To - UI/UX Designer](http://blog.mengto.com/the-best-hidden-features-in-sketch/)）
+- 有自动保存设置
+- 可查看所有自动保存版本
 
 组件概念
 
-- 文件：Sketch总的文件概念(?)
+- Page：Sketch 中逻辑上相关但是维度不同的内容
 - Template：模板，创建文件的快捷方式
     - Android Icon Design
     - iOS App Icon
@@ -125,3 +127,12 @@ Sketch
         - Tablet 7'
         - Desktop
     - 可快速复制画板（command + D）
+- Sketch File
+    - Pages
+        - page1
+        - page2
+        - page3
+            - artboard1
+            - artboard2
+                - layer1-可以是形状矩形三角形等
+                - layer2-也可以是slice图层
