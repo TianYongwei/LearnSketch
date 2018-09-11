@@ -82,6 +82,7 @@ Sketch
 - 从template新建（[The Best Hidden Features In Sketch | Meng To - UI/UX Designer](http://blog.mengto.com/the-best-hidden-features-in-sketch/)）
 - 有自动保存设置
 - 可查看所有自动保存版本
+- 导出图层和slice的区别 [Sketch - Make Exportable](https://sketchapp.com/docs/exporting/exporting-layers/)
 
 组件概念
 
@@ -129,10 +130,12 @@ Sketch
     - 可快速复制画板（command + D）
 - Sketch File
     - Pages
-        - page1
+        - page1：画布（convas）概念
         - page2
         - page3
-            - artboard1
+            - artboard1：画板（artboard）概念
             - artboard2
-                - layer1-可以是形状矩形三角形等
-                - layer2-也可以是slice图层
+                - layer1-图层（layer）概念
+                - layer2-可以是形状矩形三角形等
+                - layer3-也可以是slice图层
+- 分组完成之后点击右下角的“make exportable”，之后分组文件夹上就会出现slice小刀的样式，但这里的小刀跟slice的图标没什么关系，虽然很相似。
