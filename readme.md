@@ -43,5 +43,7 @@
 - [爱汉字网——单个汉字转图片](http://hanzi.tianma3798.cn/generate/)
 - [图片压缩：TinyJPG – Compress JPEG images intelligently](https://tinyjpg.com/)
 - [图片压缩：TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
-- [色调生成工具：Coolors.co - The super fast color schemes generator](https://coolors.co/)
+- [配色工具：Coolors.co - The super fast color schemes generator](https://coolors.co/)
 - site:www.uisdc.com 关键字
+- [配色工具：ColorFavs - Create and Discover Beautiful Color Palettes and Colors.](http://www.colorfavs.com/)
+- [占位图片工具：Placemat](https://placem.at/)
