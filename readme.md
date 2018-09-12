@@ -20,8 +20,8 @@
 
 ## 完成任务
 
-[x] [入门：sketch 使用总结](./Sketch使用总结.md)
-[ ] [进阶：sketch 插件和可复用组件](./Sketch使用总结.md)
+- [x] [入门：sketch 使用总结](./Sketch使用总结.md)
+- [ ] [进阶：sketch 插件和可复用组件](./Sketch使用总结.md)
 
 ## 参考资源
 
