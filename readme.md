@@ -6,8 +6,11 @@
 1. 接触概念
 2. 中文教程
 3. 官方教程 [Sketch - Getting Started](https://sketchapp.com/docs/getting-started/)
+4. 深入概念（learnbydo）
 
 ## 平面设计元素 Element
+
+> 平面设计视觉上是三维的，逻辑上也是三维的。
 
 - 布局
 - 配色
@@ -15,18 +18,10 @@
 - 图标
 - 图片
 
-## 网页设计元素
+## 完成任务
 
-> 网页视觉上是三维的，逻辑上也是三维的。
-
-- 布局（三维）
-- 块元素
-- 行元素
-- 背景
-
-## 进行中
-
-- [sketch 使用总结（基于昱姐视频)](./Sketch使用总结.md)
+[x] [入门：sketch 使用总结](./Sketch使用总结.md)
+[ ] [进阶：sketch 插件和可复用组件](./Sketch使用总结.md)
 
 ## 参考资源
 
