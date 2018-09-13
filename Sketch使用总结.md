@@ -149,6 +149,9 @@ File & Template
 - 导出图层和slice的区别 [Sketch - Make Exportable](https://sketchapp.com/docs/exporting/exporting-layers/)
 
 ## 可直接使用的设计内容
+
+Sketch 自带
+
 - Template：模板，创建文件的快捷方式
     - Android Icon Design
     - iOS App Icon
@@ -166,6 +169,11 @@ File & Template
         - Tablet 9'
         - Tablet 7'
         - Desktop
+- Material Design：谷歌设计规范
+- Apple Design：苹果设计规范
+
+
+
 
 ## 插件使用
 
