@@ -42,3 +42,4 @@
 - site:www.uisdc.com 关键字
 - [配色工具：ColorFavs - Create and Discover Beautiful Color Palettes and Colors.](http://www.colorfavs.com/)
 - [占位图片工具：Placemat](https://placem.at/)
+- [sketch制作LOGO（三） ---大熊猫 - 墨VS雪 - 博客园](https://www.cnblogs.com/moxuexiaotong/p/7597900.html)
