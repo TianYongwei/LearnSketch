@@ -43,5 +43,5 @@
 - [配色工具：ColorFavs - Create and Discover Beautiful Color Palettes and Colors.](http://www.colorfavs.com/)
 - [占位图片工具：Placemat](https://placem.at/)
 - [sketch制作LOGO（三） ---大熊猫 - 墨VS雪 - 博客园](https://www.cnblogs.com/moxuexiaotong/p/7597900.html)
-- [邵飞 - 搜索结果 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili](https://search.bilibili.com/all?keyword=%E9%82%B5%E9%A3%9E&from_source=banner_search)
-- [交互设计 - 搜索结果 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili](https://search.bilibili.com/all?keyword=%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1)
+- [系统学UI交互设计-邵飞-高高手_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av32018211)
+- [产品化设计思维-邵飞-高高手_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av26748816)
