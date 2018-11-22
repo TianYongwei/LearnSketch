@@ -51,3 +51,8 @@
 - [图月志 // JJ Ying 的界面设计博客](http://iconmoon.com/blog2/index.php)
 - [JJ Ying's Portfolio](http://iconmoon.com/)
 - [Anyway.FM 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客](https://anyway.fm/#)
+- [创造狮 创意工作者导航](http://chuangzaoshi.com/)
+- [利器访谈｜Larry，独立开发者、奇点日报作者 - 利器](http://liqi.io/larry/)
+- [码力全开科技工作室](http://maliquankai.com/)
+- [独立开发者 - Google 搜索](https://www.google.com.hk/search?q=%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85&oq=dulikaifa&aqs=chrome.1.69i57j0l5.4123j0j9&sourceid=chrome&ie=UTF-8)
+- [Keegan小钢](https://keeganlee.me/archive)
