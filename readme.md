@@ -45,6 +45,7 @@
 - [sketch制作LOGO（三） ---大熊猫 - 墨VS雪 - 博客园](https://www.cnblogs.com/moxuexiaotong/p/7597900.html)
 - [系统学UI交互设计-邵飞-高高手_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av32018211)
 - [产品化设计思维-邵飞-高高手_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av26748816)
+- [临摹：【搬运】Sketch - 重新设计Netflix网页_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av23512694)
 
 ## 博客
 - [How to Use GitHub as a Minimal CMS](http://paislee.io/how-to-use-github-as-a-minimal-cms/)
